@@ -1,6 +1,6 @@
-## Cuisine By Choice
+# Cuisine By Choice
 
-# Install the project
+## Install the project
 * Clone the project
 * Cd into FrontendCuisineByChoice
 * Install dependencies with npm install or yarn install
